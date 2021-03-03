@@ -11,6 +11,7 @@
 		DE7A598925ED4D4100DC7FBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A598825ED4D4100DC7FBC /* ContentView.swift */; };
 		DE7A598B25ED4D4600DC7FBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A598A25ED4D4600DC7FBC /* Assets.xcassets */; };
 		DE7A598E25ED4D4600DC7FBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A598D25ED4D4600DC7FBC /* Preview Assets.xcassets */; };
+		DE7A599725ED52C800DC7FBC /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A599625ED52C800DC7FBC /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE7A598A25ED4D4600DC7FBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE7A598D25ED4D4600DC7FBC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE7A598F25ED4D4600DC7FBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE7A599625ED52C800DC7FBC /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DE7A598625ED4D4100DC7FBC /* Map_HackwhichApp.swift */,
 				DE7A598825ED4D4100DC7FBC /* ContentView.swift */,
+				DE7A599625ED52C800DC7FBC /* LocationManager.swift */,
 				DE7A598A25ED4D4600DC7FBC /* Assets.xcassets */,
 				DE7A598F25ED4D4600DC7FBC /* Info.plist */,
 				DE7A598C25ED4D4600DC7FBC /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				DE7A598925ED4D4100DC7FBC /* ContentView.swift in Sources */,
 				DE7A598725ED4D4100DC7FBC /* Map_HackwhichApp.swift in Sources */,
+				DE7A599725ED52C800DC7FBC /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
